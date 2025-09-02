@@ -1,5 +1,3 @@
-
-
 <html lang="es">
 <head>
   <meta charset="UTF-8">
@@ -32,9 +30,64 @@
       height: 100vh;
       font-family: sans-serif;
     }
+    /* Barra de navegación */
+    .navbar {
+      width: 100%;
+      background: #2d044d;
+      overflow: hidden;
+      position: fixed;
+      top: 0;
+      left: 0;
+      z-index: 2;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+    .navbar a {
+      display: block;
+      color: #fff;
+      background: #8e24aa;
+      padding: 14px 24px;
+      text-decoration: none;
+      font-weight: bold;
+      font-size: 1rem;
+      border-radius: 30px;
+      margin: 8px 8px;
+      transition: background 0.2s, color 0.2s;
+    }
+    .navbar a:hover {
+      background: #6d1b7b;
+      color: #fffbe8;
+    }
+    @media (max-width: 600px) {
+      .navbar {
+        flex-direction: column;
+        align-items: stretch;
+      }
+      .navbar a {
+        margin: 8px 16px;
+        font-size: 1.1rem;
+        text-align: center;
+      }
+      .contenido {
+        padding-top: 80px;
+      }
+    }
+    @media (min-width: 601px) {
+      .contenido {
+        padding-top: 60px;
+      }
+    }
   </style>
 </head>
 <body>
+  <!-- Barra de navegación -->
+  <nav class="navbar">
+    <a href="#inicio">Inicio</a>
+    <a href="#servicios">Servicios</a>
+    <a href="#galeria">Galería</a>
+    <a href="#contacto">Contacto</a>
+  </nav>
   <!-- Cambia el src="video.mp4" por la ruta o enlace de tu video corto -->
   <video class="video-bg" src="vip 01.mp4" autoplay muted loop></video>
 
@@ -44,5 +97,3 @@
   </div>
 </body>
 </html>
-
-
