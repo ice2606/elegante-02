@@ -83,10 +83,12 @@
 <body>
   <!-- Barra de navegación -->
   <nav class="navbar">
-    <a href="https://ice2606.github.io/elegante-01/">Inicio</a>
-    <a href="#servicios">Servicios</a>
-    <a href="#galeria">Galería</a>
-    <a href="#contacto">Contacto</a>
+    <a href="https://ice2606.github.io/elegante-01/">atras</a>
+    <a href="#servicios">chinelas</a>
+    <a href="#galeria">zapatos</a>
+    <a href="#contacto">sandalias</a>
+     <a href="#contacto">sandalias de tacon</a>
+       <a href="#contacto">ropa</a>
   </nav>
   <!-- Cambia el src="video.mp4" por la ruta o enlace de tu video corto -->
   <video class="video-bg" src="vip 01.mp4" autoplay muted loop></video>
