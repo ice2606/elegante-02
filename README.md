@@ -201,7 +201,7 @@
 </head>
 <body>
   <!-- Cambia el src="video.mp4" por la ruta o enlace de tu video corto -->
-  <video class="video-bg" src="video.mp4" autoplay muted loop></video>
+  <video class="video-bg" src="vip 01.mp4" autoplay muted loop></video>
 
   <div class="contenido">
     <h1></h1>
