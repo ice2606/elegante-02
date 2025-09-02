@@ -105,7 +105,7 @@
         <p>aqui puedes acceder algunos de nuestros catalogos de mercancia .</p>
         <div class="button-group">
             <a href="https://ice2606.github.io/elegante-01/" class="custom-button">atras </a>
-            <a href="https://ejemplo.com/pagina2" class="custom-button">Botón 2</a>
+            <a href="https://ice2606.github.io/elegante-03/" class="custom-button">zapatos </a>
             <a href="https://ejemplo.com/pagina3" class="custom-button">Botón 3</a>
             <a href="https://ejemplo.com/pagina4" class="custom-button">Botón 4</a>
         </div>
