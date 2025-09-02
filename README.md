@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8">
-  <title>Cuadro con Texto y Botones + Fondo de Video</title>
+  <title></title>
   <style>
     /* Fondo de video */
     body, html {
@@ -57,8 +57,8 @@
 
   <!-- Cuadro con texto y botones -->
   <div class="cuadro">
-    <h2>Bienvenido a Mi Sitio</h2>
-    <p>Esto es un cuadro elegante con texto y botones. ¡Personalízalo como quieras!</p>
+    <h2>BIENVENIDOS</h2>
+    <p> en nuestro catalogo tienes diferentes tipos y diseño de calzado ademas de ropa juvenil</p>
     <div class="botones">
       <a href="https://ice2606.github.io/elegante-01/" target="_blank">atras </a>
       <a href="https://github.com" target="_blank">Ir a GitHub</a>
