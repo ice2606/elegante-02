@@ -107,7 +107,7 @@
             <a href="https://ice2606.github.io/elegante-01/" class="custom-button">atras </a>
             <a href="https://ice2606.github.io/elegante-03/" class="custom-button">zapatos </a>
             <a href="https://ice2606.github.io/elegante-04/" class="custom-button">chinelas </a>
-            <a href="https://ejemplo.com/pagina4" class="custom-button">sandalias 4</a>
+            <a href="https://ejemplo.com/pagina4" class="custom-button">sandalias</a>
         </div>
     </div>
 </body>
