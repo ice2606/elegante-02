@@ -24,7 +24,7 @@
       top: 50%; left: 50%;
       transform: translate(-50%, -50%);
       background: rgba(255,255,255,0.87);
-      padding: 2rem 2.5rem;
+      padding: 4rem 4.5rem;
       border-radius: 16px;
       box-shadow: 0 8px 32px rgba(0,0,0,0.25);
       text-align: center;
@@ -33,15 +33,15 @@
       margin-top: 0;
     }
     .botones {
-      margin-top: 1.5rem;
+      margin-top: 3.5rem;
     }
     .botones a {
       display: inline-block;
       background: #437be8;
       color: #fff;
       padding: 0.7em 1.4em;
-      border-radius: 6px;
-      margin: 0 0.5em;
+      border-radius: 8px;
+      margin: 0 0.8em;
       text-decoration: none;
       font-weight: bold;
       transition: background 0.2s;
