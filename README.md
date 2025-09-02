@@ -38,7 +38,7 @@
     .botones a {
       display: inline-block;
       background: #437be8;
-      color: #fff;
+      color: #black ;
       padding: 0.7em 1.4em;
       border-radius: 6px;
       margin: 0 0.5em;
