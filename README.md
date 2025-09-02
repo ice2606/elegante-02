@@ -57,12 +57,17 @@
 
   <!-- Cuadro con texto y botones -->
   <div class="cuadro">
-    <h2>BIENVENIDOS</h2>
-     <h3>BIENVENIDOS</h3>
+    <h2>BIENVENIDO</h2>
+     <h3>calzado 
+     elegante </h3>
     <p> en nuestro catalogo tienes diferentes tipos y diseño de calzado ademas de ropa juvenil</p>
     <div class="botones">
       <a href="https://ice2606.github.io/elegante-01/" target="_blank">atras </a>
-      <a href="https://github.com" target="_blank">Ir a GitHub</a>
+      <a href="https://github.com" target="_blank">zapatos</a>
+       <a href="https://github.com" target="_blank">sandalias </a>
+       <a href="https://github.com" target="_blank">chinelas </a>
+       <a href="https://github.com" target="_blank">sandalias de tacon </a>
+       <a href="https://github.com" target="_blank">ropa juvenil</a>
     </div>
   </div>
 </body>
