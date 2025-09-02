@@ -58,6 +58,7 @@
   <!-- Cuadro con texto y botones -->
   <div class="cuadro">
     <h2>BIENVENIDOS</h2>
+     <h3>BIENVENIDOS</h3>
     <p> en nuestro catalogo tienes diferentes tipos y diseño de calzado ademas de ropa juvenil</p>
     <div class="botones">
       <a href="https://ice2606.github.io/elegante-01/" target="_blank">atras </a>
