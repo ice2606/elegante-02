@@ -83,7 +83,7 @@
 <body>
   <!-- Barra de navegación -->
   <nav class="navbar">
-    <a href="#inicio">Inicio</a>
+    <a href="https://ice2606.github.io/elegante-01/">Inicio</a>
     <a href="#servicios">Servicios</a>
     <a href="#galeria">Galería</a>
     <a href="#contacto">Contacto</a>
