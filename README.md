@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="es">
 <head>
   <meta charset="UTF-8">
@@ -60,7 +60,7 @@
     <h2>Bienvenido a Mi Sitio</h2>
     <p>Esto es un cuadro elegante con texto y botones. ¡Personalízalo como quieras!</p>
     <div class="botones">
-      <a href="https://google.com" target="_blank">Ir a Google</a>
+      <a href="https://ice2606.github.io/elegante-01/" target="_blank">atras </a>
       <a href="https://github.com" target="_blank">Ir a GitHub</a>
     </div>
   </div>
