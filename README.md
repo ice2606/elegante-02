@@ -18,57 +18,9 @@
       object-fit: cover;
       z-index: -1;
     }
-    /* Cuadro con texto y botones */
-    .cuadro {
-      position: absolute;
-      top: 50%; left: 50%;
-      transform: translate(-50%, -50%);
-      background: rgba(255,255,255,0.87);
-      padding: 4rem 4.5rem;
-      border-radius: 16px;
-      box-shadow: 0 8px 32px rgba(0,0,0,0.25);
-      text-align: center;
-    }
-    .cuadro h2 {
-      margin-top: 0;
-    }
-    .botones {
-      margin-top: 3.5rem;
-    }
-    .botones a {
-      display: inline-block;
-      background: #437be8;
-      color: #fff;
-      padding: 0.7em 1.4em;
-      border-radius: 8px;
-      margin: 0 0.8em;
-      text-decoration: none;
-      font-weight: bold;
-      transition: background 0.2s;
-    }
-    .botones a:hover {
-      background: #90EE90;
-    }
   </style>
 </head>
 <body>
   <!-- Fondo de video (reemplaza src por tu video o uno libre de derechos) -->
   <video class="video-bg" src="vip 01.mp4" autoplay loop muted playsinline></video>
 
-  <!-- Cuadro con texto y botones -->
-  <div class="cuadro">
-    <h2>BIENVENIDO</h2>
-     <h3>calzado 
-     elegante </h3>
-    <p> en nuestro catalogo tienes diferentes tipos y diseño de calzado ademas de ropa juvenil</p>
-    <div class="botones">
-      <a href="https://ice2606.github.io/elegante-01/" target="_blank">atras </a>
-      <a href="https://github.com" target="_blank">zapatos</a>
-       <a href="https://github.com" target="_blank">sandalias </a>
-       <a href="https://github.com" target="_blank">chinelas </a>
-       <a href="https://github.com" target="_blank">sandalias de tacon </a>
-       <a href="https://github.com" target="_blank">ropa juvenil</a>
-    </div>
-  </div>
-</body>
-</html>
