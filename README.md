@@ -38,7 +38,7 @@
     .botones a {
       display: inline-block;
       background: #437be8;
-      color: #black ;
+      color: #fff;
       padding: 0.7em 1.4em;
       border-radius: 6px;
       margin: 0 0.5em;
@@ -47,7 +47,7 @@
       transition: background 0.2s;
     }
     .botones a:hover {
-      background: #2455b7;
+      background: #90EE90;
     }
   </style>
 </head>
